@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Spelling App For Beginners</string>
+    <string name="question1">This is spelt EXPAND</string>
+    <string name="question2">This is spelt PROJECTION</string>
+    <string name="question3">This is spelt OTHORITY</string>
+    <string name="question4">This is spelt PROMOTION</string>
+    <string name="question5">This is spelt REHERSAL</string>
+    <string name="question6">This is spelt KROOK</string>
+    <string name="question7">This is spelt KNEE</string>
+    <string name="question8">This is spelt CRITIC</string>
+    <string name="question9">This is spelt WHAEL</string>
+    <string name="question10">This is spelt EXTRAVAGANZA</string>
+
+
+
+
+
+</resources>
